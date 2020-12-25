@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Quiz</string>
+    <string name="questions">Which film masterpiece does the image correspond to?</string>
+    <string name="streak">Streak:</string>
+    <string name="high_score">High Score:</string>
+    <string name="default_answer">Answer</string>
+    <string name="reset">Reset</string>
+    <string name="right_toast">Correct!</string>
+    <string name="wrong_toast">Wow, not even close!</string>
+    <string-array name="answers">
+        <item>Con Air</item>
+        <item>National Treasure</item>
+        <item>Face/Off</item>
+        <item>Ghost Rider</item>
+        <item>Vampire\'s Kiss</item>
+        <item>Snake Eyes</item>
+        <item>Adaptation</item>
+        <item>The Croods</item>
+        <item>Matchstick Men</item>
+        <item>Gone in 60 Seconds</item>
+    </string-array>
+    <string-array name="wrong_answers">
+        <item>Valley Girl</item>
+        <item>Raising Arizona</item>
+        <item>Never on Tuesday</item>
+        <item>Time to Kill</item>
+        <item>Honeymoon in Vegas</item>
+        <item>Amos and Andrew</item>
+        <item>Deadfall</item>
+        <item>Guarding Tess</item>
+        <item>It Could Happen to You</item>
+        <item>Kiss of Death</item>
+        <item>The Rock</item>
+        <item>City of Angels</item>
+        <item>8mm</item>
+        <item>The Family Man</item>
+        <item>Windtalkers</item>
+        <item>Sonny</item>
+        <item>Lord of War</item>
+        <item>The Weather Man</item>
+        <item>The Ant Bully</item>
+        <item>The Wicker Man</item>
+        <item>Next</item>
+        <item>Bangkok Dangerous</item>
+        <item>G-Force</item>
+        <item>Astro Boy</item>
+        <item>Kick-Ass</item>
+        <item>Season of the Witch</item>
+        <item>Drive Angry</item>
+        <item>Stolen</item>
+        <item>Joe</item>
+        <item>Rage</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

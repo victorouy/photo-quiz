@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Photo</string>
+    <string name="questions">À quel chef-d\'œuvre cinématographique l\'image correspond-elle?</string>
+    <string name="streak">Série:</string>
+    <string name="high_score">Score élevé:</string>
+    <string name="default_answer">Réponse</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="right_toast">Correct!</string>
+    <string name="wrong_toast">Mauvaise réponse</string>
+    <string-array name="answers">
+        <item>Les Ailes de l\'enfer </item>
+        <item>Benjamin Gates et le Trésor des Templiers</item>
+        <item>Volte-face </item>
+        <item>Ghost Rider</item>
+        <item>Embrasse-moi, vampire</item>
+        <item>Snake Eyes</item>
+        <item>Adaptation</item>
+        <item>Les Croods</item>
+        <item>Les Associés</item>
+        <item>60 secondes chrono</item>
+    </string-array>
+    <string-array name="wrong_answers">
+        <item>Valley Girl</item>
+        <item>Arizona Junior</item>
+        <item>Never on Tuesday</item>
+        <item>Time to Kill</item>
+        <item>Lune de miel à Las Vegas</item>
+        <item>Amos et Andrew</item>
+        <item>Deadfall</item>
+        <item>Un ange gardien pour Tess</item>
+        <item>Milliardaire malgré lui </item>
+        <item>Kiss of Death</item>
+        <item>Rock</item>
+        <item>La Cité des anges</item>
+        <item>8 millimètres </item>
+        <item>Family Man</item>
+        <item>Windtalkers</item>
+        <item>Sonny</item>
+        <item>Lord of War</item>
+        <item>The Weather Man</item>
+        <item>The Ant Bully</item>
+        <item>The Wicker Man</item>
+        <item>Next</item>
+        <item>Bangkok Dangerous</item>
+        <item>G-Force</item>
+        <item>Astro Boy</item>
+        <item>Kick-Ass</item>
+        <item>Le Dernier des Templiers </item>
+        <item>Hell Driver</item>
+        <item>12 heures</item>
+        <item>Joe</item>
+        <item>Tokarev</item>
+    </string-array>
+</resources>
